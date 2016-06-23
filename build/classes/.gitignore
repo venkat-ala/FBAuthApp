@@ -1,0 +1,10 @@
+/access/
+/application.properties
+/common/
+/controllers/
+/dao/
+/filters/
+/log4j.properties
+/models/
+/response/
+/service/
